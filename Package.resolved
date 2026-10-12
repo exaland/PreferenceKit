@@ -4,7 +4,7 @@
     {
       "identity" : "oslogviewer",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/0xWDG/OSLogViewer.git",
+      "location" : "https://github.com/exaland/OSLogViewer.git",
       "state" : {
         "revision" : "d1170a311c2a8e6a643bf0b5f5d5849d602e72be",
         "version" : "1.1.6"
