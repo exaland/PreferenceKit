@@ -18,7 +18,7 @@ feedback, privacy policy links, and developer social-media links.
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/0xWDG/PreferenceKit.git", branch: "main"),
+    .package(url: "https://github.com/exaland/PreferenceKit.git", branch: "main"),
 ],
 targets: [
     .target(name: "MyTarget", dependencies: [
